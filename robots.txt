@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.vlihsme.cn/sitemap.xml
